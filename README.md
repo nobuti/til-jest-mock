@@ -1,3 +1,7 @@
+See https://nobuti.com/thoughts/jest-mock for a deeper explanation.
+
+## Environment
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
